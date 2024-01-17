@@ -1,4 +1,5 @@
 ## Pronóstico del Precio de Clausura de Bitcoin mediante Redes Neuronales
+![image](https://github.com/Danielluma242004/pronostico_bitcoin/assets/145404946/e622af7a-8dce-4640-8d7f-d45290637316)
 
 ### Descripción del Proyecto:
 
