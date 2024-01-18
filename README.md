@@ -9,8 +9,6 @@ Este proyecto utiliza técnicas de aprendizaje profundo para prever el precio de
 
 - **`pronostico_bitcoin.ipynb`:** Jupyter Notebook principal que contiene el código del proyecto.
 - **`bitcoin_diario_clausura.csv`:** Conjunto de datos de ejemplo en formato CSV con información diaria del precio de cierre del Bitcoin.
-- **`README.md`:** Documentación principal que proporciona una visión general del proyecto, instrucciones y detalles sobre su implementación.
-
 
 ### Librerías Utilizadas:
 
